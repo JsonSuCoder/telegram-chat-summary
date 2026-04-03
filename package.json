@@ -1,6 +1,6 @@
 {
   "name": "@telegram/telegram-chat-summary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "OpenClaw plugin: scheduled Telegram chat summarization",
   "type": "module",
   "dependencies": {
